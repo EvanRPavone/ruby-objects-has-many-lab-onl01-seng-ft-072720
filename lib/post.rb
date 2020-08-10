@@ -9,7 +9,7 @@ class Post
   end
 
   def self.post
-    @@all?
+    @@all
   end
 
   # def author_name
