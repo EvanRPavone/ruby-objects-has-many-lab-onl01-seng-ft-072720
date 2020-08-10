@@ -14,5 +14,7 @@ class Artist
     end
   end
 
-  def
+  def add_song(song)
+    binding.pry
+  end
 end
